@@ -78,7 +78,7 @@ export default {
 				display: none;
 			}
 			&-logo {
-				display: none;
+				transform: scale(0.9);
 			}
 		}
 	}
