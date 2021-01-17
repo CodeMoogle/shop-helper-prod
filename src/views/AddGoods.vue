@@ -41,8 +41,5 @@ export default {
 			margin: 0 auto;
 			padding: 0 5px;
 		}
-		@media screen and (max-width: $xs-phones) {
-			font-size: 0.8rem;
-		}
 	}
 </style>
